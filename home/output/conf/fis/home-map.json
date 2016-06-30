@@ -1,0 +1,36 @@
+{
+    "res": {
+        "home:page/index/index.jsx": {
+            "uri": "/static/home/page/index/index_ec41870.js",
+            "type": "js",
+            "deps": [
+                "!!./../../../node_modules/css-loader/index.js!./index.css"
+            ],
+            "subpath": "/static/home/page/index/index_ec41870.js"
+        },
+        "home:page/index/index.tpl": {
+            "uri": "home/page/index/index.tpl",
+            "type": "tpl",
+            "extras": {
+                "isPage": true
+            },
+            "subpath": "/views/home/page/index/index.tpl"
+        },
+        "home:page/index/test.jsx": {
+            "uri": "/static/home/page/index/test_72d5e04.js",
+            "type": "js",
+            "subpath": "/static/home/page/index/test_72d5e04.js"
+        },
+        "home:page/index/test2.jsx": {
+            "uri": "/static/home/page/index/test2_c101423.js",
+            "type": "js",
+            "subpath": "/static/home/page/index/test2_c101423.js"
+        },
+        "home:components/listview/index.jsx": {
+            "uri": "/static/home/components/listview/index.jsx",
+            "type": "jsx",
+            "subpath": "/static/home/components/listview/index.jsx"
+        }
+    },
+    "pkg": {}
+}
